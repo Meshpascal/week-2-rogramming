@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(167, 167, 157);
+    color: rgb(226, 14, 233);
+}
+h1{
+    font-size: 3rem;
+    border: 2px dashed red;
+}
+p{
+    font: 1em sans-serif;
+    font-size: 2rem;
+}
