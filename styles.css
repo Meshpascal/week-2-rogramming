@@ -1,15 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background: rgb(167, 167, 157);
-    color: rgb(226, 14, 233);
+ol{
+    list-style-type: lower-alpha;
+list-style-position: outside;
 }
-h1{
-    font-size: 3rem;
-    border: 2px dashed red;
+ul{
+    list-style-type: georgian;
+    list-style-position: inside;
 }
-p{
-    font: 1em sans-serif;
-    font-size: 2rem;
+li{
+    color : blueviolet;
 }
